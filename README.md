@@ -12,7 +12,7 @@ Real estate datasets often contain duplicate records, inconsistent formatting, m
 
 In this project, I transformed the Nashville Housing dataset into a reliable analytical dataset using PostgreSQL. After performing extensive data cleaning and feature engineering, I explored key drivers of property values, housing market trends, and neighborhood performance.
 
-The cleaned dataset was then used to build an interactive Power BI dashboard that allows users to explore Nashville's housing market through dynamic KPIs, filters, and visualizations. The project demonstrates an end-to-end analytics workflow—from raw data preparation to business intelligence reporting.
+The cleaned dataset was then used to build an interactive Power BI dashboard that allows users to explore Nashville's housing market through dynamic KPIs, filters, and visualizations. The project demonstrates an end-to-end analytics workflow; from raw data preparation to business intelligence reporting.
 
 ---
 
@@ -351,7 +351,7 @@ Starting with a raw housing dataset containing duplicates, inconsistencies, and 
 
 The cleaned data was then analyzed to uncover trends, identify key drivers of property values, and answer meaningful business questions. Finally, the insights were presented through an interactive Power BI dashboard designed to support data-driven decision-making.
 
-Beyond SQL, this project showcases the importance of data quality, feature engineering, business-focused analysis, and effective storytelling—illustrating how analytics creates value by turning raw data into actionable insights.
+Beyond SQL, this project showcases the importance of data quality, feature engineering, business-focused analysis, and effective storytelling, illustrating how analytics creates value by turning raw data into actionable insights.
 ```
 
 

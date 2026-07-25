@@ -82,9 +82,11 @@ Although the dataset contained rich information about Nashville's housing market
 
 - PostgreSQL
 - Power BI
+- Data Modelling
 - DAX
 - Power Query
 - Figma
+- Dashboard Design
 
 ---
 

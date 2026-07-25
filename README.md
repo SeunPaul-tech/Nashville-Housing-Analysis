@@ -338,6 +338,9 @@ An interactive Power BI dashboard was developed to allow users to:
 
 ---
 
+<img width="968" height="542" alt="Housing 2" src="https://github.com/user-attachments/assets/7b8d1264-0516-4760-af6b-03a41b76e304" />
+
+
 # Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow.
@@ -348,7 +351,6 @@ The cleaned data was then analyzed to uncover trends, identify key drivers of pr
 
 Beyond SQL, this project showcases the importance of data quality, feature engineering, business-focused analysis, and effective storytelling—illustrating how analytics creates value by turning raw data into actionable insights.
 ```
-<img width="968" height="542" alt="Housing 2" src="https://github.com/user-attachments/assets/f5123f04-198e-4ba2-a933-f8df9fdf5c30" />
 
 
 

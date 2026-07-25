@@ -338,9 +338,6 @@ An interactive Power BI dashboard was developed to allow users to:
 
 ---
 
-<img width="968" height="542" alt="Housing 3" src="https://github.com/user-attachments/assets/212f9373-ffe3-488f-997e-d29152bb8274" />
-
-
 # Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow.
@@ -353,6 +350,6 @@ Beyond SQL, this project showcases the importance of data quality, feature engin
 ```
 
 
-
+<img width="968" height="542" alt="Housing 3" src="https://github.com/user-attachments/assets/f9798191-6fd6-4c06-932e-4576dc0e69ef" />
 
 

@@ -353,7 +353,3 @@ The cleaned data was then analyzed to uncover trends, identify key drivers of pr
 
 Beyond SQL, this project showcases the importance of data quality, feature engineering, business-focused analysis, and effective storytelling, illustrating how analytics creates value by turning raw data into actionable insights.
 ```
-
-
-
-

@@ -1,6 +1,6 @@
 # Nashville Housing Market Analysis
 
-<img width="928" height="521" alt="housing 1" src="https://github.com/user-attachments/assets/3454dd9c-b8b6-44df-9432-c0e7f72d9be4" />
+<img width="928" height="522" alt="housing 1" src="https://github.com/user-attachments/assets/1d43ebf1-9c7a-4ed2-b086-5fc113adc2c0" />
 
 
 ## SQL Data Cleaning, Exploratory Data Analysis & Power BI Dashboard
